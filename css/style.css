@@ -29,7 +29,8 @@ h1 {
 }
 
 .card:hover {
-    border-radius: 20px;
+    opacity: 0.8;
+    cursor: pointer;
 }
 
 .red{
