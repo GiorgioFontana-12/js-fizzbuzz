@@ -1,5 +1,5 @@
 const cont = document.getElementById("container")
-for (let i = 0; i < 100; i++) {
+for (let i = 0; i < 105; i++) {
     let x = (i + 1)
     let cardColor = "purple"
     let multiploTre = (x % 3)
